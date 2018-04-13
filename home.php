@@ -106,3 +106,7 @@
 
 
 <?php include 'footer.php' ?>
+
+<script>
+       $('#beranda').addClass('active');
+</script>
