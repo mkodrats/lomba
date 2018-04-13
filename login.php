@@ -16,7 +16,7 @@
     <div class="login-form">
       <input id="email" type="text" placeholder="email"/>
       <input id="password" type="password" placeholder="password"/>
-      <button  id="login">MASUK</button>
+      <a class="btn btn-primary" href="home.php">Masuk</a>
       <p class="message">Belum Terdaftar? <a id="quickstart-sign-up" href="daftar">Buat Akun Baru</a></p>
     </div>
   </div>

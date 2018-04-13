@@ -34,7 +34,7 @@
                     <a class="nav-link" id="pesan" href="pesan.php">Pesan</a>
                 </li>
             </ul>
-            <a class="btn btn-secondary" href="">Buat Pertanyaan</a> &nbsp;
+            <a class="btn btn-secondary" href="buatpertanyaan.php">Buat Pertanyaan</a> &nbsp;
             <form class="form-inline my-2 my-lg-0">
                 <button class="btn btn-light my-2 my-sm-0" type="submit">Logout</button>
             </form>
